@@ -1,1 +1,1 @@
-# Exercicio-3-Topicos-em-Inteligencia-Computacional
+# Exercicio-2-Topicos-em-Inteligencia-Computacional
